@@ -157,10 +157,8 @@ If you'd like to explore the dashboard yourself, follow these steps.
 
 ### 1. Clone the repository
 
-After publishing the project to GitHub, replace the placeholder URL with your repository URL.
-
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Pragyabaruah-ui/SentinelIQ.git
 cd SentinelIQ
 ```
 
